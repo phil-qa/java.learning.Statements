@@ -1,0 +1,12 @@
+Statements
+
+In the following:
+int myVar = 30;
+myVar = 30 is an expression
+the whole line is a statement, by adding the data type and the semicolon that made the statement for java, allthough there#
+are some exceptions to that.
+
+The expression in the above is one of many different types of expression we see that as an assignment
+We can have a method call that is also an expression.
+
+They dont always have to be on the same line, multiple lines can encompass an expression most editors recognise if an expression
