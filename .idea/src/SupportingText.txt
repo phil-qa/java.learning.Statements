@@ -10,3 +10,8 @@ The expression in the above is one of many different types of expression we see 
 We can have a method call that is also an expression.
 
 They dont always have to be on the same line, multiple lines can encompass an expression most editors recognise if an expression
+
+Note that whitespace is ignored. This can be useful in making things look readable
+
+Note that indentation is a there to make things look more readable, functionally it has no real use though, unlike something like Python.
+Most IDEs will do this by default, although somethimes it can go a bit wrong (cut and paste) and needs come post processing
